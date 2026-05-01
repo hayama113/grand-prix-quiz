@@ -1,0 +1,6 @@
+Pass 1: 0 error(s)
+Pass 2: 0 error(s)
+Pass 3: 0 error(s)
+Total questions: 500
+Categories: F1マシン・技術, サーキット・GP, チーム・コンストラクター, ドライバー, パドック裏話・話題, ルール・レギュレーション, 名レース・事件, 年代別, 日本人・日本GP, 最新シーズン, 歴代王者・記録
+Node syntax check: OK

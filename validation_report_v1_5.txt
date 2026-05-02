@@ -1,0 +1,70 @@
+Grand Prix Quiz v1.5 validation report
+======================================
+Created: 2026-05-01T15:53:40
+Total questions: 10000
+
+Existing base questions: 1000
+Added F1 questions: 2000
+Added other motorsport questions: 2000
+Added supercar questions: 2000
+Added general car questions: 3000
+
+Validation passes:
+- Pass 1: 0 error(s)
+- Pass 2: 0 error(s)
+- Pass 3: 0 error(s)
+
+Difficulty counts:
+- Difficulty 1: 1721
+- Difficulty 2: 3766
+- Difficulty 3: 2469
+- Difficulty 4: 1372
+- Difficulty 5: 672
+
+Category counts:
+- F1マシン・技術: 139
+- F1追加・コンストラクター: 68
+- F1追加・タイヤ: 234
+- F1追加・マシン技術: 1244
+- F1追加・戦略: 156
+- F1追加・歴代王者: 144
+- F1追加・空力: 154
+- WRC/ラリー: 364
+- インディカー/NASCAR: 273
+- サーキット・GP: 109
+- スーパーカー名車: 364
+- スーパーカー基礎: 546
+- スーパーカー実用知識: 181
+- スーパーカー技術: 728
+- チーム・コンストラクター: 168
+- ドライバー: 44
+- ハイパーカー/EV: 181
+- パドック裏話・話題: 3
+- モータースポーツ総合: 636
+- ルール・レギュレーション: 122
+- 一般車・エンジン/駆動: 450
+- 一般車・トラブル対応: 375
+- 一般車・メンテナンス: 525
+- 一般車・安全運転: 900
+- 一般車・購入/維持/トラブル: 300
+- 一般車・電装/EV/ハイブリッド: 450
+- 二輪/カート/ドラッグ: 364
+- 名レース・事件: 25
+- 年代別: 49
+- 日本人・日本GP: 5
+- 最新シーズン: 148
+- 歴代王者・記録: 188
+- 耐久レース/WEC: 363
+
+Checked items:
+- ID duplication
+- Question text duplication
+- Choice duplication
+- Answer index range
+- Multiple-answer structure
+- Explanation presence
+- Difficulty range 1-5
+- Requested group counts
+
+Note:
+Structural/data-consistency check. Factual answers are generated from curated source tables in the generation script; editorial review is still recommended before public release.
